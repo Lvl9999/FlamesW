@@ -3,7 +3,7 @@
 ### A Script hub that will support variety of games!
 
 ## Flames Hub's Loadstring:
-##### You should join my discord for Updates and Giveaways! [Here](https://discord.gg/flame1st)
+### You should join my discord for Updates and Giveaways! [Here](https://discord.gg/flame1st)
 ```lua
 getgenv().ToggleUI = "J";
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/FlamesW/new/Launcher"))();
