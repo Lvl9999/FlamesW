@@ -1,4 +1,4 @@
-# Flame's Hub
+# Flame's Hub 🔥
 
 ### A Script hub that will support variety of games!
 
