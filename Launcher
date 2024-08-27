@@ -1,0 +1,11 @@
+repeat task.wait(0.25) until game:IsLoaded();
+getgenv().CurrentVersion = "1.01";
+
+local Supported = {
+    A_Universal_Time = {6846458508,5130598377};
+
+}
+
+if table.find(Supported.A_Universal_Time,game.PlaceId) then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/FlamesW/new/AUT"))();
+end
