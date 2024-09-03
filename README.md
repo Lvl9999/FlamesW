@@ -6,6 +6,8 @@
 Operational = 🟢 | Unoperational = 🔴 | In Maintenance = 🟠 | In Progress = 🔵
 - [A Universal Time](https://www.roblox.com/games/5130598377/GEAR-5-A-Universal-Time-3-7) | 🟢
 
+- [Heaven Stand](https://www.roblox.com/games/14561998168/Domain-Clash-Heaven-Stand) | 🟢
+
 - [Project Baki 3](https://www.roblox.com/games/5951002734/KURE-Project-Baki-3) | 🔵
 
 ## Flames Hub's Loadstring:
