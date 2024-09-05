@@ -8,8 +8,6 @@ Operational = 🟢 | Unoperational = 🔴 | In Maintenance = 🟠 | In Progress 
 
 - [Heaven Stand](https://www.roblox.com/games/14561998168/Domain-Clash-Heaven-Stand) | 🟢
 
-- [Project Baki 3](https://www.roblox.com/games/5951002734/KURE-Project-Baki-3) | 🔵
-
 ## Flames Hub's Loadstring:
 ### You should join my discord for Updates and Giveaways! [Here](https://discord.gg/flame1st)
 ```lua
