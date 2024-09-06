@@ -1,5 +1,5 @@
 repeat task.wait(0.25) until game:IsLoaded();
-getgenv().CurrentVersion = "1.04";
+getgenv().CurrentVersion = "1.05";
 
 local Supported = {
     A_Universal_Time = {6846458508,5130598377};
