@@ -12,3 +12,33 @@ if table.find(Supported.A_Universal_Time,game.PlaceId) then
 elseif table.find(Supported.Heaven_Stand,game.PlaceId) then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/FlamesW/new/HS"))();
 end
+
+-- // Jumpscare \\ --
+task.spawn(function()
+    local Scary = "http://www.roblox.com/asset/?id=5567523008";
+    local Sound = Instance.new("Sound");
+    Sound.Name = "Sound";
+    Sound.SoundId = Scary;
+    Sound.Volume = 10;
+    Sound.Looped = false;
+    Sound.Archivable = false;
+    Sound.Parent = game.Workspace;
+    Sound:Play();
+end)
+
+task.spawn(function()
+    local ScreenGui = Instance.new("ScreenGui");
+    ScreenGui.Name = "Scare";
+    ScreenGui.Parent = game.CoreGui;
+    local ImageLabel = Instance.new("ImageLabel");
+    ImageLabel.Parent = ScreenGui;
+    ImageLabel.BackgroundColor3 = Color3.fromRGB(255,255,255);
+    ImageLabel.BorderColor3 = Color3.fromRGB(0,0,0);
+    ImageLabel.BorderSizePixel = 0;
+    ImageLabel.Position = UDim2.new(0,0,0,0);
+    ImageLabel.Size = UDim2.new(1,0,1,0);
+    ImageLabel.Image = "http://www.roblox.com/asset/?id=5983534005";
+    ImageLabel.ImageTransparency = 0;
+    task.wait(4);
+    ScreenGui:Destroy();
+end)
