@@ -1,7 +1,3 @@
-task.spawn(function()
-        getgenv().Notify("http://www.roblox.com/asset/?id=11803247078","Flame's Notification"," Script is Unoperational At The Moment  🔴","middle","",9e9);
-end)
-
 repeat task.wait(0.25) until game:IsLoaded();
 getgenv().CurrentVersion = "1.06";
 
