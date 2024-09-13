@@ -16,6 +16,6 @@ if table.find(Supported.A_Universal_Time,game.PlaceId) then
 elseif table.find(Supported.Heaven_Stand,game.PlaceId) then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/FlamesW/new/HS"))();
     task.spawn(function()
-        getgenv().Notify("http://www.roblox.com/asset/?id=11803247078","Flame's Notification"," Script is Unoperational At The Moment  🔴","middle","",9e9);
+        getgenv().Notify("http://www.roblox.com/asset/?id=11803247078","Flame's Notification"," Script is Unoperational 🔴","middle","",9e9);
     end)
 end
