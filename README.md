@@ -6,7 +6,7 @@
 Operational = 🟢 | Unoperational = 🔴 | In Maintenance = 🟠 | In Progress = 🔵
 - [A Universal Time](https://www.roblox.com/games/5130598377/GEAR-5-A-Universal-Time-3-7) | 🟢
 
-- [Heaven Stand](https://www.roblox.com/games/14561998168/Domain-Clash-Heaven-Stand) | 🟠
+- [Heaven Stand](https://www.roblox.com/games/14561998168/Domain-Clash-Heaven-Stand) | 🟢
 
 ## Flames Hub's Loadstring:
 ### You should join my discord for Updates and Giveaways! [Here](https://discord.gg/flame1st)
