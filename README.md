@@ -8,6 +8,8 @@ Operational = 🟢 | Unoperational = 🔴 | In Maintenance = 🟠 | In Progress 
 
 - [Heaven Stand](https://www.roblox.com/games/14561998168/Domain-Clash-Heaven-Stand) | 🟢
 
+- [Your Bizarre Adventure](https://www.roblox.com/games/2809202155/Your-Bizarre-Adventure) | 🔵
+
 ## Flames Hub's Loadstring:
 ### You should join my discord for Updates and Giveaways! [Here](https://discord.gg/flame1st)
 ```lua
