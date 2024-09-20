@@ -9,7 +9,7 @@ Operational = 🟢 | Unoperational = 🔴 | In Maintenance = 🟠 | In Progress 
 
 - [Heaven Stand](https://www.roblox.com/games/14561998168/Domain-Clash-Heaven-Stand) | 🟢
 
-- [Sakura Stand](https://www.roblox.com/games/8534845015/KAIJU-RED-MIST-Sakura-Stand) | 🟢
+- [Sakura Stand](https://www.roblox.com/games/8534845015/KAIJU-RED-MIST-Sakura-Stand) | 🟠🟢
 
 ## Flames Hub's Loadstring:
 ### You should join my discord for Updates and Giveaways! [Here](https://discord.gg/flame1st)
