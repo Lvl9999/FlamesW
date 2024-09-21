@@ -25,7 +25,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/FlamesW/new/L
 ```
 ##### Warning: Some features might get you banned from being reported by players.
   
-### Special Credits:
+## Special Credits:
 - [Flames](https://discord.com/users/656455297979908106) | Scripter / Support / Owner ✍️
 - [Flames](https://discord.com/users/656455297979908106) | Notification UI 👍
 
