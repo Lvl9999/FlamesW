@@ -2,6 +2,14 @@
 
 ### A Script hub that will support variety of games!
 
+# Supported Devices:
+
+- **Windows** | **Mobile** | **Emulator**
+
+### Supported Exploits:
+
+- **Wave** | **Solara (1# Rat)** | **etc... (Other Rats too, Probably)**
+  
 ## Current Supported Games:
 Operational = 🟢 | Unoperational = 🔴 | In Maintenance = 🟠 | In Progress = 🔵
 
@@ -11,6 +19,8 @@ Operational = 🟢 | Unoperational = 🔴 | In Maintenance = 🟠 | In Progress 
 
 - [Sakura Stand](https://www.roblox.com/games/8534845015/KAIJU-RED-MIST-Sakura-Stand) | 🟠🟢
 
+  In Total: 3
+
 ## Flames Hub's Loadstring:
 ### You should join my discord for Updates and Giveaways! [Here](https://discord.gg/qjk3tRB8ds)
 ```lua
@@ -19,10 +29,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/FlamesW/new/L
 ```
 ##### Warning: Some features might get you banned from being reported by players.
   
-## Credits:
+### Special Credits:
+- [Flames](https://discord.com/users/656455297979908106) | Scripter / Support / Owner ✍️
+- [Flames](https://discord.com/users/656455297979908106) | Notification UI 👍
 
-#### Script Made by: flames9925
-##### Notify Ui Library Made by: flames9925
-##### Ui Library Made by: Darkrai / DrRay
+**Thanks to these people: 👇**
+- [Darkrai](CouldntFindLink) | UI Library 👍
 
 ![Webp-_2_](https://github.com/user-attachments/assets/72a94e35-c60b-46d0-8cff-fec01e925877)
