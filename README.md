@@ -17,7 +17,7 @@ Operational = 🟢 | Unoperational = 🔴 | In Maintenance = 🟠 | In Progress 
 
   In Total: 3
 
-## Flames Hub's Loadstring:
+# Flames Hub's Loadstring:
 ### You should join my discord for Updates and Giveaways! [Here](https://discord.gg/qjk3tRB8ds)
 ```lua
 getgenv().ToggleUI = "J";
