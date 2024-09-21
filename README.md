@@ -6,7 +6,7 @@
 
 - **Windows** | **Mobile** | **Emulator**
 
-## Supported Games:
+## Current Supported Games:
 Operational = 🟢 | Unoperational = 🔴 | In Maintenance = 🟠 | In Progress = 🔵
 
 - [A Universal Time](https://www.roblox.com/games/5130598377/GEAR-5-A-Universal-Time-3-7) | 🟢
@@ -18,7 +18,7 @@ Operational = 🟢 | Unoperational = 🔴 | In Maintenance = 🟠 | In Progress 
   In Total: 3
 
 # Flames Hub's Loadstring:
-### You should join my discord for Updates and Giveaways! [Here](https://discord.gg/qjk3tRB8ds)
+### You should join my discord for Updates! [Here](https://discord.gg/qjk3tRB8ds)
 ```lua
 getgenv().ToggleUI = "J";
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/FlamesW/new/Launcher"))();
@@ -27,7 +27,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/FlamesW/new/L
   
 ## Special Credits:
 - [Flames](https://discord.com/users/656455297979908106) | Scripter / Support / Owner ✍️
-- [Flames](https://discord.com/users/656455297979908106) | Notification UI 👍
+- [Flames (Also me :>)](https://discord.com/users/656455297979908106) | Notification UI 👍
 
 **Thanks to these people: 👇**
 - [Darkrai](CouldntFindLink) | UI Library 👍
