@@ -6,7 +6,7 @@
 
 - **Windows** | **Mobile** | **Emulator**
 
-## Current Supported Games:
+## Supported Games:
 Operational = 🟢 | Unoperational = 🔴 | In Maintenance = 🟠 | In Progress = 🔵
 
 - [A Universal Time](https://www.roblox.com/games/5130598377/GEAR-5-A-Universal-Time-3-7) | 🟢
