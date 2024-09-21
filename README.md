@@ -6,10 +6,6 @@
 
 - **Windows** | **Mobile** | **Emulator**
 
-### Supported Exploits:
-
-- **Wave** | **Solara (1# Rat)** | **etc... (Other Rats too, Probably)**
-  
 ## Current Supported Games:
 Operational = 🟢 | Unoperational = 🔴 | In Maintenance = 🟠 | In Progress = 🔵
 
