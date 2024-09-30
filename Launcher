@@ -17,4 +17,6 @@ elseif table.find(SupportedGames.Heaven_Stand,game.PlaceId) then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/FlamesW/new/HS"))();
 elseif table.find(SupportedGames.Sakura_Stand,game.PlaceId) then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/FlamesW/new/SS"))();
+else
+    getgenv().Notify("http://www.roblox.com/asset/?id=11803247078","Flame's Notification","Bro really tried to use my script on an unsupported game  👏","","",9e9);
 end
