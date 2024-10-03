@@ -1,6 +1,6 @@
 # ➤ Flame's Hub 🔥
 
-### - A Script hub that will support variety of games!
+### A Script hub that will support variety of games!
 
 # Supported Devices:
 
@@ -24,7 +24,8 @@ getgenv().ToggleUI = "J";
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/FlamesW/new/Launcher"))();
 ```
 ##### Warning: Some features might get you banned from being reported by players.
-  
+
+## ➤ I am sorry for the temporary discontinuation.
 ## Special Credits:
 - [Flames](https://discord.com/users/656455297979908106) | Scripter / Support / Owner ✍️
 - [Flames (Also me :>)](https://discord.com/users/656455297979908106) | Notification UI 👍
