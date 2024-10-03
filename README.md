@@ -1,6 +1,6 @@
 # ➤ Flame's Hub 🔥
 
-### A Script hub that will support variety of games!
+### * A Script hub that will support variety of games!
 
 # Supported Devices:
 
