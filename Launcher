@@ -6,7 +6,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Lvl9999/Loader/main/U
 ---------------------------------------------------------------------------------------
 
 local SupportedGames = {
-    A_Universal_Time = {6846458508,5130598377};
+    A_Universal_Time = {6846458508,5130598377,8023712967};
     Heaven_Stand = {14561998168};
     Sakura_Stand = {8534845015};
 }
